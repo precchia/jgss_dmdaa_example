@@ -21,4 +21,8 @@ bcsLogin.conf.server
 They should be put together into a file bcsLogin.conf
 
 
+THe example is copied from Documentum DAA blog:
+https://dmdaa.wordpress.com/tag/jgss/
+
+and adapted to make it work with Java8
 
